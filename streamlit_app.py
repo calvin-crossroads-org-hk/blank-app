@@ -5,7 +5,7 @@ st.write(
     "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://www.google.com)."
 )
 
-if st.button("Go !")
+if st.button("Go !"):
     st.balloons()
 
 
